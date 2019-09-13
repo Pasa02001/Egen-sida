@@ -1,0 +1,28 @@
+﻿div {
+    display:block;
+    height: 1900px;
+    width: 50%; 
+    margin:auto;
+    box-shadow: 5px 0px 0px 0px;
+    color:gray;
+}
+table,tr,td {
+    border:2px solid gray;
+    border-collapse: collapse;
+    border-collapse: collapse;
+
+}
+body {
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+}
+
+h1 {
+    text-align:center;
+    color:red;
+}
+white-square {
+    align-content: center;
+    height:100%;
+    width:50%;
+
+}
